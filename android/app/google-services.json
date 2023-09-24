@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113345526763",
+    "project_id": "newpronavigation",
+    "storage_bucket": "newpronavigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113345526763:android:84f98e1c74822de143b7ae",
+        "android_client_info": {
+          "package_name": "com.newpronavigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvOWHaFewiea9VWnAkSHiHZyONCLDZhlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
