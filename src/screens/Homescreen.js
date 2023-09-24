@@ -142,7 +142,7 @@ const App = () => {
 
       <View style={styles.footer}>
         <View style={styles.inputContainer}>
-          <TextInput
+          <TextInput style={{color:'#000'}}
             value={textInput}
             placeholder="Add Todo"
             onChangeText={text => setTextInput(text)}

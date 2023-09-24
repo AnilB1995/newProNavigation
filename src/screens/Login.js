@@ -83,7 +83,8 @@ inputstyle:{
   marginTop:30,
   borderWidth:0.8,
   width:'80%',
-  borderRadius:8
+  borderRadius:8,
+  color:'#000'
 },
 loginbtn:{
   backgroundColor:'#34ace0',

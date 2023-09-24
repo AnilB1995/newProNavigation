@@ -67,7 +67,8 @@ const styles = StyleSheet.create({
       marginTop:30,
       borderWidth:0.9,
       width:'80%',
-      borderRadius:8
+      borderRadius:8,
+      color:'#000'
     },
     loginbtn:{
       backgroundColor:'#34ace0',
